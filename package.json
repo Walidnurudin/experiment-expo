@@ -12,12 +12,26 @@
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-native": "0.71.8",
+    "react-native-read-more-text": "^1.1.2",
+    "expo-system-ui": "~2.2.1",
+    "react-native-reanimated": "~2.14.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.0.14",
-    "typescript": "^4.9.4"
+    "@types/react-native-read-more-text": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard-with-typescript": "^37.0.0",
+    "eslint-plugin-import": "^2.28.0",
+    "eslint-plugin-n": "^16.0.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-native": "^4.0.0",
+    "prettier": "3.0.2",
+    "typescript": "^5.1.6"
   },
   "private": true
 }
